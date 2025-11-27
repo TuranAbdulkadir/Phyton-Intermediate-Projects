@@ -1,7 +1,10 @@
-import geocoder
+from flask import Flask
 
-ip = geocoder.ip("me")
-print(f"Your IP: {ip.ip}")
-print(f"City: {ip.city}")
-print(f"Country: {ip.country}")
-print(f"Lat/Lng: {ip.latlng}")
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "<h1>Hello! This is my first Python Web App 🚀</h1>"
+
+if __name__ == "__main__":
+    app.run(debug=True)
