@@ -25,7 +25,7 @@ A collection of 20 intermediate-level Python projects focusing on **GUI, Automat
 | 17 | **Typing Speed Test** | Game | Time Module |
 | 18 | **IP Locator** | Network | Geocoder |
 | 19 | **Flask Web App** | Web Server | Flask |
-| 20 | **System Info** | System Tool | Psutil |.
+| 20 | **System Info** | System Tool | Psutil |
 
 ---
 ### 🛠️ Installation
