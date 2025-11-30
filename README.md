@@ -26,7 +26,11 @@ A collection of 20 intermediate-level Python projects focusing on **GUI, Automat
 | 18 | **IP Locator** | Network | Geocoder |
 | 19 | **Flask Web App** | Web Server | Flask |
 | 20 | **System Info** | System Tool | Psutil |
-
+| 21 | Disk Analyzer | System Tool | Shutil |
+| 22 | JSON to CSV | Data Tool | JSON/CSV |
+| 23 | Net Checker | Bot | Requests |
+| 24 | Paint App | GUI | Tkinter |
+| 25 | Battery Alert | System | Psutil |
 ---
 ### 🛠️ Installation
 Each project has its own folder. Navigate to the folder and check `README.md` for specific requirements.
